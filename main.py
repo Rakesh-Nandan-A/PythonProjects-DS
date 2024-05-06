@@ -3,6 +3,7 @@ import sys
 
 from Covid_data import data_cleaning, data_representation  # This is a sample Python script.
 import pandas as pd
+import numpy as np
 
 # data = pd.read_csv('data/covid_19_india.csv')
 # data_cleaning(data)
